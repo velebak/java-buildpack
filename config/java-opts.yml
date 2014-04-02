@@ -1,0 +1,2 @@
+---
+java_opts: -Ddw.server.type=simple -Ddw.server.applicationContextPath=/ -Ddw.server.connector.type=http -Ddw.server.connector.port=$PORT
